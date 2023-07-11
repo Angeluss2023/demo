@@ -45,7 +45,7 @@ public class GClientesService {
 	@GET 
 	@Path("saludo")
 	public String saludo() {
-		return "Hola Fredd";
+		return "Hola Fred";
 	}
 	
 	@GET 
